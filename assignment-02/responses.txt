@@ -1,0 +1,3 @@
+A directory is a container of files organized into groups
+VCS are useful because it allows us to undo or cancel all made or pending changes within one or more files
+My favorite artistic medium is music. It is my favorite becuase I am not very artistically challenged but I love msuic of all kinds
